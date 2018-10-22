@@ -1,5 +1,5 @@
 ---
-name: test template
+name: テストテンプレート
 about: test description
 ---
 
