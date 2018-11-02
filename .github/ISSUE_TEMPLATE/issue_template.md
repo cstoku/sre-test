@@ -1,4 +1,0 @@
-
-# Issue Template
-
-Template A
