@@ -1,21 +1,29 @@
 ---
-name: 調査依頼
-about: SREチームに調査の依頼をする際のテンプレート
+name: SRE Team Task
+about: Task template for SRE team.
 ---
 
 ## :bookmark: 概要
 
 
 
-## :thinking: 問題点・疑問点
+## :dart: 目的
 
 
 
-## :ballot_box_with_check: 要望/調査事項
+## :computer: 対象環境
 
-- [ ] 項目1
-- [ ] 項目2
+
+
+## :ballot_box_with_check: タスク
+
+- [ ] タスク1
+- [ ] タスク2
 
 ## :information_source: 備考
 
 
+
+## :books: 参考文献
+
+- URLなど
